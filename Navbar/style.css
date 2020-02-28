@@ -119,7 +119,7 @@ main {
     .navbar {
         bottom: 0;
         width: 100vw;
-        height: 5rem;
+        height: 10rem;
     }
     .logo {
         display: none;
@@ -129,6 +129,10 @@ main {
     }
     .nav-link {
         justify-content: center;
+        height: 10rem;
+    }
+    .nav-link svg {
+        min-width: 4rem;
     }
     main {
         margin: 0;
