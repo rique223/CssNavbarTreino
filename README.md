@@ -4,7 +4,7 @@ Navbar feita em Html+css a partir do tutorial fornecido pelo canal do youtube Fi
 
 ### Como executar esse projeto?
 1. Baixe ou clone esse repositório
-2. Acesse o diretório ..\CssNavbarTreino\Navbar
+2. Acesse o diretório ...\CssNavbarTreino\Navbar
 3. Execute o arquivo Index.html em seu navegador de preferência
 
 # [EN]
@@ -13,7 +13,7 @@ Navbar made with HTML5+CSS3 following a tutorial supplied by the youtube channel
 
 ### How to run this project?
 1. Download or clone this repository
-2. Acces the ..\CssNavbarTreino\Navbar directory
+2. Acces the ...\CssNavbarTreino\Navbar directory
 3. Execute the Index.html file in your favorite browser
 
 
